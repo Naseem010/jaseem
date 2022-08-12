@@ -1,0 +1,44 @@
+body{
+  background-color: #2C3639;
+}
+.img{
+  display: inline-block;
+  margin: 50px;
+  width: 550px;
+
+}
+.img1{
+  width: 30%;
+  padding: 60px 50px;
+}
+.content{
+  display: inline-block;
+  width: 44%;
+  background-color: #3F4E4F;
+  position: absolute;
+  top: 130px;
+right: 250px;
+color: white;
+}
+.heading{
+  font-size: 30px;
+  font-weight: 900;
+}
+.inner-content{
+  margin: 30px;
+}
+.subheading{
+  color: #F77E21;
+}
+.button{
+  margin-top: 50px;
+  color: white;
+  background-color: #F77E21;
+  border-color: #F77E21;
+  font-size: 17px;
+  font-family: Merriweather;
+}
+.button:hover{
+  color: #F77E21;
+  background-color: white;
+}
